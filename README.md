@@ -1,2 +1,2 @@
 # Sublime-Settings
-A plac got store Sublime steins that I want to use on each Desktop
+A place to store Sublime steins that I want to use on each Desktop
